@@ -3,6 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 title = "tacokitan"
 theme = "KeepIt"
+themesDir = "/themes/"
 
 paginate = 12
 enableEmoji = true
