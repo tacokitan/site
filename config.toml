@@ -1,7 +1,7 @@
 baseURL = "https://tacokitan.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "tacokitan"
+title = "tacoki's website"
 theme = "KeepIt"
 
 paginate = 12
@@ -37,7 +37,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2021
     author = "Amy Black"               # Author's name
-    subtitle = "welcome to hell."       # Subtitle
+    subtitle = "welcome to my corner."       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
