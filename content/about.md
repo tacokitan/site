@@ -9,4 +9,5 @@ aliases = ["about"]
 heyo, welcome to my website. this is basically just a hub for all of my socials/other things i wanna post about.
 
 discord - tacoki-tan#0707
+
 rateyourmusic - tacoki
