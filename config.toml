@@ -37,7 +37,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2021
     author = "Amy Black"               # Author's name
-    subtitle = "head to the blog page to find some other socials!"       # Subtitle
+    subtitle = "head to the about page to find some other socials!"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
