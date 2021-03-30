@@ -11,3 +11,5 @@ heyo, welcome to my website. this is basically just a hub for all of my socials/
 discord - tacoki-tan#0707
 
 rateyourmusic - tacoki
+
+cover icon - https://www.instagram.com/skittlekitty12/
