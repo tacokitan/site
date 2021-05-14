@@ -1,6 +1,6 @@
 +++
 #Categories = ["Go"]
-date = "2021-05-"
+date = "2021-05-10"
 description = "I started a clothing brand!"
 #featured = "pic02.jpg"
 featuredalt = ""
