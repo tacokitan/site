@@ -1,7 +1,7 @@
 +++
 #Categories = ["Go"]
 date = "2021-03-09"
-description = ""
+description = "The first post!"
 #featured = "pic02.jpg"
 featuredalt = ""
 featuredpath = "date"
