@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made with <img src="/logo.png" alt=":)" className={styles.logo} /> for you
+        Made with 💙 ©2023
       </footer>
     </>
   )
