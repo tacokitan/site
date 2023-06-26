@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="howdy!" />
         <p className="description">
-          welcome :)
+          contact me on discord - @tacoki
         </p>
       </main>
 
