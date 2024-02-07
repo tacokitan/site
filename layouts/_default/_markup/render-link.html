@@ -1,7 +1,0 @@
-<a
-href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}
-{{ if findRE "^(https?:)?//" (lower .Destination) }}
-  class="external-link" target="_blank" rel="noopener"
-{{ else }}
-  class="internal-link"
-{{ end }}>{{ .Text | safeHTML }}</a>
